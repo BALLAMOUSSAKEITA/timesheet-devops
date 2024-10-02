@@ -26,7 +26,7 @@ public class User implements Serializable {
 	private Long id;   
 	
 	private String firstName; 
-	
+//Test ajout commentaires 2	
 	private String lastName;
 	
 	@Temporal(TemporalType.DATE)
